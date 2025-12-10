@@ -1,2 +1,3 @@
-# .github
-team arts and engineering
+## Team Arts & Engineering
+
+Hi there.
